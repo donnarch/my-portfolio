@@ -29,4 +29,14 @@ export default [
     github: "https://github.com/donnarch/bem-pack",
     vercel: "https://bem-pack.vercel.app/",
   },
+  {
+    title: "Bem h/m3",
+    github: "https://github.com/donnarch/bem-homework-3",
+    vercel: "https://bem-homework-3.vercel.app/",
+  },
+  {
+    title: "Recipe page",
+    github: "https://github.com/donnarch/recipe-page",
+    vercel: "https://recipe-page-omeelete.vercel.app/",
+  },
 ];

@@ -39,4 +39,9 @@ export default [
     github: "https://github.com/donnarch/recipe-page",
     vercel: "https://recipe-page-omeelete.vercel.app/",
   },
+  {
+    title: "MYteam",
+    github: "https://github.com/donnarch/Myteamassignment",
+    vercel: "https://myteamassignment.vercel.app/",
+  },
 ];

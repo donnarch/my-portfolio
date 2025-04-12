@@ -47,6 +47,6 @@ export default [
   {
     title: "MYteam second part",
     github: "https://github.com/donnarch/Myteamassignment",
-    vercel: "https://vercel.com/donnarchs-projects",
+    vercel: "https://myteamassignment.vercel.app/",
   },
 ];
